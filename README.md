@@ -1,5 +1,5 @@
 # Engeto_data_academy_Power_BI_project
-#Analýza mezd, cen potravin a kupní síly v ČR
+# Analýza mezd, cen potravin a kupní síly v ČR
 
 Tento Power BI report vizualizuje vývoj průměrných mezd, cen vybraných potravin a kupní síly v České republice v letech 2006–2018.
 Cílem projektu je ukázat trendy v růstu mezd a cen a porovnat, jak se měnila dostupnost základních potravin pro obyvatele.
