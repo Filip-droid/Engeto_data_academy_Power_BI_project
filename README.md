@@ -28,3 +28,7 @@ Cílem projektu je ukázat trendy v růstu mezd a cen a porovnat, jak se měnila
 🔹 Zdroj dat
 
 Data pocházejí z Českého statistického úřadu (ČSÚ)
+
+
+K dispozici i online:
+https://app.powerbi.com/view?r=eyJrIjoiYmFkNDEzZTgtYWQ5Mi00OGM5LTk0MTYtYzQ4Y2JmNDZkYzNhIiwidCI6IjExOTA0ZjIzLWYwZGItNGNkYy05NmY3LTM5MGJkNTVmY2VlOCIsImMiOjh9
